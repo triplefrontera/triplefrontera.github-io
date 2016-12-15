@@ -10,8 +10,9 @@ function f1() {
 }
 window.onload = function() {
     document.getElementById("btn-culo").onclick = function fun() {
-        alert("hello");
-        f1();
+        //alert("hello");
+        //f1();
+        document.getElementById('Image-culo').src='http://www.cdc.gov/std/spanish/gonorrea/images/gonomain.jpg'
         //validation code to see State field is mandatory.  
     }
 }
