@@ -4,13 +4,25 @@
 console.log("VIVA PERON")
 var culol = 0;
 
-var imagenes = [];
+/*'<p>But... should toasts follow the same rule?\n\nI would say it\'s 
+				pretty reasonable to have smoke coming out of a damn toaster, dude. \n\n
+				What do product people have to say about this?</p>
+				<br>
+				<p>Wikipedia, however, is not so romantic: The term "smoke test" refers to 
+				powering on a device simply to make sure it does not start smoking (indicating 
+					a major problem). It originated in the testing of electronic hardware</p>',*/
+
+//var templateChapter = {"imageURL":"link","text":"HTMLtext","footer":"text"};
+var chapter = {"imageURL":"'http://www.cdc.gov/std/spanish/gonorrea/images/gonomain.jpg'",
+				"text": '<p> Text </p> <br><p> Text </p>'
+				"footer":"text"};
+var content = [];
 
 
 function culo() {
-    document.getElementById('Image-culo').src='http://www.cdc.gov/std/spanish/gonorrea/images/gonomain.jpg';
-    document.getElementById('Text-culo').innerHTML="<p> test </p><br><p> test </p>";
-    document.getElementById('Footer-culo').innerHTML="<p> test </p><br><p> test </p>";
+    document.getElementById('Image-culo').src=chapter.imageURL;
+    document.getElementById('Text-culo').innerHTML=chapter.text;
+    document.getElementById('Footer-culo').innerHTML="<p> "+chapter.footer+"</p>";
     console.log("VIVAN LOS CULOS number "+culol);
 }
 
