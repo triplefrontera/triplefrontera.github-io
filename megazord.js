@@ -9,9 +9,10 @@ function f1() {
     //form validation that recalls the page showing with supplied inputs.    
 }
 window.onload = function() {
-    document.getElementById("btn-culo").onclick = fun();
+    document.getElementById("btn-culo").onclick = culo();
 }
 
-function fun() {
+function culo() {
     document.getElementById('Image-culo').src='http://www.cdc.gov/std/spanish/gonorrea/images/gonomain.jpg'
+    console.log("VIVAN LOS CULOS");
 }
