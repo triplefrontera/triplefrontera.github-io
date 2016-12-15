@@ -14,7 +14,7 @@ var culol = 0;
 
 //var templateChapter = {"imageURL":"link","text":"HTMLtext","footer":"text"};
 var chapter = {"imageURL":"'http://www.cdc.gov/std/spanish/gonorrea/images/gonomain.jpg'",
-				"textHTML": '<p> Text </p> <br><p> Text </p>'
+				"textHTML": '<p> Text </p> <br><p> Text </p>',
 				"footer":"text"};
 var content = [];
 
