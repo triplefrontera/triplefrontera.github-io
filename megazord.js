@@ -6,7 +6,7 @@ var culol = 0;
 
 function culo() {
     document.getElementById('Image-culo').src='http://www.cdc.gov/std/spanish/gonorrea/images/gonomain.jpg';
-    console.log("VIVAN LOS CULOS "+culol);
+    console.log("VIVAN LOS CULOS number"+culol);
 }
 
 
