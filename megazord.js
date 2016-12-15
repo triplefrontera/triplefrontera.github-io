@@ -10,6 +10,7 @@ var imagenes = [];
 function culo() {
     document.getElementById('Image-culo').src='http://www.cdc.gov/std/spanish/gonorrea/images/gonomain.jpg';
     document.getElementById('Text-culo').innerHTML="<p> test </p><br><p> test </p>";
+    document.getElementById('Footer-culo').innerHTML="<p> test </p><br><p> test </p>";
     console.log("VIVAN LOS CULOS number "+culol);
 }
 
