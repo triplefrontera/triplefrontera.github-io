@@ -14,16 +14,17 @@ var culol = 0;
 
 //var templateChapter = {"imageURL":"link","text":"HTMLtext","footer":"text"};
 var chapter = {"imageURL":"'http://www.cdc.gov/std/spanish/gonorrea/images/gonomain.jpg'",
-				"text": '<p> Text </p> <br><p> Text </p>'
+				"textHTML": '<p> Text </p> <br><p> Text </p>'
 				"footer":"text"};
 var content = [];
 
 
 function culo() {
-    document.getElementById('Image-culo').src=chapter.imageURL;
-    document.getElementById('Text-culo').innerHTML=chapter.text;
-    document.getElementById('Footer-culo').innerHTML="<p> "+chapter.footer+"</p>";
     console.log("VIVAN LOS CULOS number "+culol);
+    document.getElementById('Image-culo').src=chapter.imageURL;
+    document.getElementById('Text-culo').innerHTML=chapter.textHTML;
+    document.getElementById('Footer-culo').innerHTML="<p> "+chapter.footer+"</p>";
+    
 }
 
 
