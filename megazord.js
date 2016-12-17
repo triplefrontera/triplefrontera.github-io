@@ -7,7 +7,7 @@ var culol = 0;
 
 
 //var templateChapter = {"imageURL":"link","text":"<p> Text </p> <br><p> Text </p>","footer":"text"};
-var chapter = {"imageURL":"images/0.jpg",
+var chapter = {"imageURL":"images/0.JPG",
 				"textHTML": '<p> Text </p> <br><p> Text </p>',
 				"footer":"text"};
 var content = [];
