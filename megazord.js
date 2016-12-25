@@ -44,7 +44,11 @@ function culold() {
 
 function culo() {
     console.log("VIVAN LOS CULOS number "+culol);
+    if (culol>chapter.length){
+    	culol = 0;
+    }
     var chapter = content[culol];
+
     document.getElementById('Image-culo').src=chapter.imageURL;
     document.getElementById('Text-culo').innerHTML=chapter.textHTML;
     document.getElementById('Footer-culo').innerHTML="<p> "+chapter.footer+"</p>";
