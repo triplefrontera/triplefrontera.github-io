@@ -22,13 +22,13 @@ var content = [
     "footer": "Footer text makes it interesting"
   },
   {
-    "imageURL": "images/rev1-0.JPG",
-    "textHTML": "<p> Introduction </p> <br><p> Paragraph 2 </p>",
+    "imageURL": "images/rev1-2.JPG",
+    "textHTML": "<p> Algunas versiones de Megazord, diseñadas para la particular tarea de reconstrucción de realidades pretéritas confluenciadas, se basan en el arte como método irónico y trastornado de registro social y entusiasmagórico verbal y emocional. Salvando las distancias, los grandes sabiundos de lo supible coinciden que es mejor escuchar una historia contada por alguien que no la vivió, no la peleó, no la leyó, y está enojado con su padre porque no le deja ver la tele después de la hora de irse a la camucha.</p><p>Es así como Megazord le tira letras a Nautilus, el colectivo artístico futurista multirracial de los animales humanizados más blancos de la temporada astral. Podemos, junto con ellos, discernir grandes historias de heroísmo protagonizadas por nadie en particular, aplicables a cualquier fenómeno histórico de relevancia completamente inexistente. </p>",
     "footer": "Footer text makes it interesting"
   },
   {
-    "imageURL": "images/rev1-0.JPG",
-    "textHTML": "<p> Introduction </p> <br><p> Paragraph 2 </p>",
+    "imageURL": "images/rev1-3.JPG",
+    "textHTML": "<p> En un disco conceptual de una saga de cuarenta y dos tomos audiovisuales que, si se consume como se debe, dura setecientosmillonesculo horas terráqueas, Nautilus nos cuenta las grandes historias de las vidas y muertes del gran Godzilla, alienígena líder y gran amenaza contra el Status Quo del momento. Según el colectivo artístico, Godzilla es uno de los grandes héroes reptilianos que están fuera de los dominios obvios de la Reina Católica de la Bandera De Turno. Como contrato ficcional, Godzilla es derrotado por los Defensores del Bien Local y Multirracial en gran cantidad de los tomos de la composición. En otros tomos, cosas más divertidas suceden. Lo invitamos, entonces, a consumir una de las versiones gratuitas de este material archipirateable, formatizado para la ocasión. </p>",
     "footer": "Footer text makes it interesting"
   }
 ];
