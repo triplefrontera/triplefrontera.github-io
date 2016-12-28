@@ -11,14 +11,14 @@
 		var skyboxes= [];
 
 
-	window.onload = function() {
-	    // document.getElementById("btn-culo").onclick = function fun() {
-	    //     culo();
-	    //     culol++;
-	    // }
-	    init();
-		animate();
-	}
+	// window.onload = function() {
+	//     // document.getElementById("btn-culo").onclick = function fun() {
+	//     //     culo();
+	//     //     culol++;
+	//     // }
+	//     init();
+	// 	animate();
+	// }
 
 
 
@@ -34,7 +34,8 @@
 			renderer = new THREE.WebGLRenderer();
 			renderer.setPixelRatio( window.devicePixelRatio );
 			renderer.setSize( window.innerWidth*3/7, window.innerHeight/2 );
-			container.appendChild( renderer.domElement );
+			child = renderer.domElement;
+			container.appendChild( child );
 //-------------------------------------------//-------------------------------------------//-------------------------------------------
 			raycaster = new THREE.Raycaster();
 				mouse = new THREE.Vector2();
@@ -140,7 +141,7 @@ container.appendChild( renderer.domElement );
 }
 //------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 //------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			window.addEventListener( 'resize', onWindowResize, false );
+			 window.addEventListener( 'resize', onWindowResize, false );
 		}
 		function skybox(textures,name,size,centerCoord,isflying){
 			size=size || 1;
