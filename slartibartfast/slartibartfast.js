@@ -58,38 +58,21 @@ container.appendChild( renderer.domElement );
 			controls.enableZoom = true;
 			controls.enablePan = false;
 			var filesRepeated=[
-					// "https://s10.postimg.org/7kh6zv4vt/Screen_Shot_2016_09_18_at_8_35_05_PM.png",
-					//"https://s16.postimg.org/5j2oa9k51/Screen_Shot_2016_09_18_at_8_55_02_PM.png",
-					// "https://s10.postimg.org/7kh6zv4vt/Screen_Shot_2016_09_18_at_8_35_05_PM.png",
-					// "https://s16.postimg.org/5j2oa9k51/Screen_Shot_2016_09_18_at_8_55_02_PM.png",
-					"http://embed.gyazo.com/a261a030ca7607ad46a0d3fd634de044.png",
-					"http://www.arcondebuenosaires.com.ar/Borges7.jpg",
-					// "https://s10.postimg.org/7kh6zv4vt/Screen_Shot_2016_09_18_at_8_35_05_PM.png",
-					// "https://s12.postimg.org/5g366q1x9/Screen_Shot_2016_09_18_at_8_55_02_PM.png",
-					// "https://s10.postimg.org/5p0kaonx5/Screen_Shot_2016_09_18_at_9_14_20_PM.png",
-					"https://i.ytimg.com/vi/0cXDDMLVKTE/hqdefault.jpg",
-					"http://images5.fanpop.com/image/answers/2820000/2820473_1340488730205.12res_251_251.jpg",
-					"https://pbs.twimg.com/profile_images/503231713687117824/J1spq-9N.jpeg",
-					// "http://image.shutterstock.com/z/stock-photo-business-poodle-portrait-poodle-is-wearing-a-cute-tie-image-taken-in-a-studio-412839934.jpg",
-					// "http://image.shutterstock.com/z/stock-photo-business-poodle-portrait-poodle-is-wearing-a-cute-tie-image-taken-in-a-studio-412839934.jpg",
-					"https://storage.googleapis.com/imgfave/image_cache/1249033817596537.jpeg",
-					"http://cdn.topsecretwriters.com/wp-content/uploads/2013/07/weird-clock.jpg",
-					"http://images2.travbuddy.com/1797811_13408385595771.jpg",
-					// "https://s10.postimg.org/7kh6zv4vt/Screen_Shot_2016_09_18_at_8_35_05_PM.png",
-					// "http://4.bp.blogspot.com/-PRpHlGof2XE/UqfPzuPCYYI/AAAAAAAABNU/4wVZXRTPzsA/s1600/Mr-Culo-Selfie.jpg",
-					"http://static4.businessinsider.com/image/560be2d69dd7cc15008be1bb-1190-625/the-inventor-of-the-cellphone-thinks-apples-new-iphone-6s-is-boring.jpg",
-					"http://www.youbioit.com/files/newimages/13/12/dott45.preview.jpg",
-					// "http://i.cbc.ca/1.2606088.1397168099!/fileImage/httpImage/image.jpg_gen/derivatives/original_300/atari-e-t-the-extra-terrestrial-video-game.jpg",
-					"http://f.fwallpapers.com/images/angry-poodle.jpg",
-					// "https://thumbs.dreamstime.com/x/poodle-business-suit-thick-nerdy-glasses-isolated-white-background-29719675.jpg",
-					"http://alcoholintheworkplace.com/wp-content/uploads/2014/01/Boredom.jpg",
-					// "http://cache2.asset-cache.net/gc/172313204-red-business-poodle-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=dgLbF10%2BqaQECHLecCmYYgRUqII4muuf7frov0%2BUKGnVKf7tdZ6hRYycFHOQ6Q%2F1",
-					// "https://i.ytimg.com/vi/tJeSE5W1hKw/maxresdefault.jpg",
-					// "http://www.uwishunu.com/wp-content/uploads/2013/04/PIFA-Time-Machine030-680uw.jpg",
-					// "https://s10.postimg.org/7kh6zv4vt/Screen_Shot_2016_09_18_at_8_35_05_PM.png",
-					// "http://s15.postimg.org/elhqa5uvv/el_boceto_n1.jpg",
-					// "https://cdn.meme.am/instances/400x400/39449236.jpg",
-					"https://s-media-cache-ak0.pinimg.com/736x/8c/ba/d0/8cbad04500f085d77d5039f067293ce3.jpg"]
+					"images/1.JPG",
+					"images/2.JPG",
+					"images/3.JPG",
+					"images/4.JPG",
+					"images/5.JPG",
+					"images/6.JPG",
+					"images/7.JPG",
+					"images/8.JPG",
+					"images/9.JPG",
+					"images/10.JPG",
+					"images/11.JPG",
+					"images/12.JPG",
+					"images/13.JPG",
+					"images/14.JPG"
+					]
 			var filesCube=["slartibartfast/sun_temple_stripe.jpg"]
 			var textures = getTexturesFromAtlasFile( filesCube[0], 6 );
 			
