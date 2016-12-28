@@ -58,19 +58,12 @@ container.appendChild( renderer.domElement );
 			controls.enableZoom = true;
 			controls.enablePan = false;
 			var filesRepeated=[
-					"images/1.JPG",
-					"images/2.JPG",
-					"images/3.JPG",
-					"images/4.JPG",
-					"images/5.JPG",
-					"images/6.JPG",
-					"images/7.JPG",
-					"images/8.JPG",
-					"images/9.JPG",
-					"images/10.JPG",
-					"images/11.JPG",
-					"images/12.JPG",
-					"images/13.JPG"
+					"images/slart0-0.JPG",
+					"images/slart0-1.JPG",
+					"images/slart0-2.JPG",
+					"images/slart0-3.JPG",
+					"images/slart0-4.JPG",
+					"images/slart0-5.JPG"
 					]
 			var filesCube=["slartibartfast/sun_temple_stripe.jpg"]
 			var textures = getTexturesFromAtlasFile( filesCube[0], 6 );
