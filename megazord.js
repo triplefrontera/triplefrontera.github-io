@@ -96,6 +96,62 @@ var fullContent =
         "footer": "Me pregunto qué tiene Nautilus para contarme hoy..."
       }
     ]
+  },
+  {
+    "content": [
+      {
+        "title": "Feliz Celebración Anual de lo Anualizable",
+        "imageURL": "images/rev2-0.JPG",
+        "textHTML": "<br><br><br><p> Estimado Usted: </p> <br><p> Esto es sólo para Usted. </p>",
+        "footer": "Y también para los culeables del futuro que sepan apretar el culo adecuado."
+      },
+      {
+        "title": "Mensaje en una botella",
+        "imageURL": "images/rev2-1.JPG",
+        "textHTML": "<p>Godzilla quiere volver a nacer pero necesita ayuda de un Sheriff multiastral!</p>",
+        "footer": "Ya todos sabemos quién es y qué hace Megazord, che."
+      },
+      {
+        "title": "Quién podrá desambiguarnos?!",
+        "imageURL": "images/rev2-2.JPG",
+        "textHTML": "<p> La humanidad no sabe cómo usar a Megazord, deberemos confiar en los profesionales de siempre </p>",
+        "footer": "Cuénteme más sobre lo que hace Nautilus, señor narrador, me aburro leyendo tanto."
+      },
+      {
+        "title": "Nautilus es la banda de los capos blancos, sí.",
+        "imageURL": "images/rev2-3.JPG",
+        "textHTML": "<p> Es sólo cuestión de conectar a la gente adecuada con los full-retards adecuados </p>",
+        "footer": "Me pregunto qué tiene Nautilus para contarme hoy..."
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "title": "Feliz Celebración Anual de lo Anualizable",
+        "imageURL": "images/rev3-0.JPG",
+        "textHTML": "<br><br><br><p> Estimado Usted: </p> <br><p> Esto es sólo para Usted. </p>",
+        "footer": "Y también para los culeables del futuro que sepan apretar el culo adecuado."
+      },
+      {
+        "title": "Mensaje en una botella",
+        "imageURL": "images/rev3-1.JPG",
+        "textHTML": "<p>Godzilla quiere volver a nacer pero todos quieren destruírlo</p>",
+        "footer": "Necesitamos un doble agente."
+      },
+      {
+        "title": "Quién podrá desambiguarnos?!",
+        "imageURL": "images/rev3-2.JPG",
+        "textHTML": "<p> La humanidad no sabe cómo usar a Megazord, deberemos confiar en los profesionales de siempre </p>",
+        "footer": "El equipo ya está listo, debemos actuar en silencio y con diligencia."
+      },
+      {
+        "title": "Nautilus es la banda de los capos blancos, sí.",
+        "imageURL": "images/rev3-3.JPG",
+        "textHTML": "<p> Es sólo cuestión de conectar a la gente adecuada con los full-retards adecuados y cantarles una canción que los ilumine</p>",
+        "footer": "Me pregunto qué tiene Nautilus para contarme hoy..."
+      }
+    ]
   }
 ];
 
@@ -175,7 +231,7 @@ function culo() {
         case 1:
             dameAudio();
             break;
-        case 3:
+        case 4:
             slartibartfasteala();
             break;
         default:
