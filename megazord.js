@@ -211,8 +211,8 @@ function slartibartfasteala(){
     }
 }
 
-function dameAudio(){
-    document.getElementById('Audio-culo').style.visibility='visible';
+function dameAudio(id){
+    document.getElementById('Audio-culo-'+id).style.visibility='visible';
     culol=0;
     alabasto++;
     narrador();
@@ -229,7 +229,7 @@ function culo() {
             narrador();
             break;
         case 1:
-            dameAudio();
+            dameAudio(alabasto);
             break;
         case 4:
             slartibartfasteala();
