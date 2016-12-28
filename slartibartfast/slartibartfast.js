@@ -70,8 +70,7 @@ container.appendChild( renderer.domElement );
 					"images/10.JPG",
 					"images/11.JPG",
 					"images/12.JPG",
-					"images/13.JPG",
-					"images/14.JPG"
+					"images/13.JPG"
 					]
 			var filesCube=["slartibartfast/sun_temple_stripe.jpg"]
 			var textures = getTexturesFromAtlasFile( filesCube[0], 6 );
