@@ -276,10 +276,17 @@ container.appendChild( renderer.domElement );
 				camera.lookAt( scene.position );
 				renderer.render( scene, camera );
 			}
+
+		function skyboxOnDemand(filename){
+			texturefilename = filename;
+			console.log(texturefilename);
+			var textures = getTexturesFromOneFile( texturefilename );
+			skybox(textures,texturefilename);
+		}
 		function onDocumentMouseDown( event ) {
 				event.preventDefault();
-				mouse.x = ( event.clientX / renderer.domElement.clientWidth ) * 2 - 1;
-				mouse.y = - ( event.clientY / renderer.domElement.clientHeight ) * 2 + 1;
+				mouse.x = ( event.clientX / window.innerWidth ) * 2 - 1;
+				mouse.y = - ( event.clientY / window.innerHeight ) * 2 + 1;
 				raycaster.setFromCamera( mouse, camera );
 				var intersects = raycaster.intersectObjects( objects );
 				if ( intersects.length > 0 ) {
@@ -290,5 +297,7 @@ container.appendChild( renderer.domElement );
 				 	console.log(texturefilename);
 					var textures = getTexturesFromOneFile( texturefilename );
 					skybox(textures,texturefilename);
+				 } else {
+				 	console.log("Else")
 				 }
 			}

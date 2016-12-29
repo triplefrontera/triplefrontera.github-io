@@ -4,7 +4,7 @@
 console.log("VIVA PERON")
 var culol = 0;
 var alabasto = 0;
-
+var romulo = true;
 
 //var templateChapter = {"imageURL":"link","text":"<p> Text </p> <br><p> Text </p>","footer":"text"};
 var templateChapter = {
@@ -12,6 +12,8 @@ var templateChapter = {
         "imageURL":"images/0.JPG",
 				"textHTML": '<p> Text </p> <br><p> Text </p>',
 				"footer":"text"};
+
+//unused right now
 var content = [
   {
     "title": "Feliz Celebración Anual de lo Anualizable",
@@ -78,19 +80,19 @@ var fullContent =
         "footer": "Y también para los culeables del futuro que sepan apretar el culo adecuado."
       },
       {
-        "title": "Mensaje en una botella",
+        "title": "Unused",
         "imageURL": "images/rev1-1.JPG",
         "textHTML": "<p>Godzilla quiere volver a nacer pero necesita ayuda de un Sheriff multiastral!</p>",
         "footer": "Ya todos sabemos quién es y qué hace Megazord, che."
       },
       {
-        "title": "Quién podrá desambiguarnos?!",
+        "title": "Unused",
         "imageURL": "images/rev1-2.JPG",
         "textHTML": "<p> La humanidad no sabe cómo usar a Megazord, deberemos confiar en los profesionales de siempre </p>",
         "footer": "Cuénteme más sobre lo que hace Nautilus, señor narrador, me aburro leyendo tanto."
       },
       {
-        "title": "Nautilus es la banda de los capos blancos, sí.",
+        "title": "Unused",
         "imageURL": "images/rev1-3.JPG",
         "textHTML": "<p> Es sólo cuestión de conectar a la gente adecuada con los full-retards adecuados </p>",
         "footer": "Me pregunto qué tiene Nautilus para contarme hoy..."
@@ -100,55 +102,55 @@ var fullContent =
   {
     "content": [
       {
-        "title": "Feliz Celebración Anual de lo Anualizable",
+        "title": "Los reptiles son un riesgo para la Galaxia!",
         "imageURL": "images/rev2-0.JPG",
-        "textHTML": "<br><br><br><p> Estimado Usted: </p> <br><p> Esto es sólo para Usted. </p>",
-        "footer": "Y también para los culeables del futuro que sepan apretar el culo adecuado."
+        "textHTML": "<p>Los reptiles están amotinándose por la muerte de su líder rebelde. A estas alturas, ni siquiera La Reina los puede mantener a raya.</p> <br> <p> Las defensas ya no dan abasto, es un momento de medidas desesperadas </p>",
+        "footer": "Se viene jodido, se viene!"
       },
       {
         "title": "Mensaje en una botella",
         "imageURL": "images/rev2-1.JPG",
-        "textHTML": "<p>Godzilla quiere volver a nacer pero necesita ayuda de un Sheriff multiastral!</p>",
-        "footer": "Ya todos sabemos quién es y qué hace Megazord, che."
+        "textHTML": "<p>Este trabajo requiere de un Sheriff Multiastral!</p>",
+        "footer": "Es hora de llamar a los Super Agentes de lo Agentizable!"
       },
       {
         "title": "Quién podrá desambiguarnos?!",
         "imageURL": "images/rev2-2.JPG",
-        "textHTML": "<p> La humanidad no sabe cómo usar a Megazord, deberemos confiar en los profesionales de siempre </p>",
-        "footer": "Cuénteme más sobre lo que hace Nautilus, señor narrador, me aburro leyendo tanto."
+        "textHTML": "<p> La humanidad no sabe cómo usar a Megazord, deberemos confiar en los profesionales de siempre. Sólo un operativo multirracial y multidisciplinario devolverá la paz a la Galaxia.</p>",
+        "footer": "El fin está cerca pero tenemos un as bajo la manga."
       },
       {
-        "title": "Nautilus es la banda de los capos blancos, sí.",
+        "title": "Nautilus: Blancos pero vivos",
         "imageURL": "images/rev2-3.JPG",
-        "textHTML": "<p> Es sólo cuestión de conectar a la gente adecuada con los full-retards adecuados </p>",
-        "footer": "Me pregunto qué tiene Nautilus para contarme hoy..."
+        "textHTML": "<p> Es sólo cuestión de conectar a la gente adecuada con los full-retards adecuados... </p>",
+        "footer": "Me pregunto qué tiene Nautilus para cantarme hoy..."
       }
     ]
   },
   {
     "content": [
       {
-        "title": "Feliz Celebración Anual de lo Anualizable",
+        "title": "Nautilus es blanco e inocente",
         "imageURL": "images/rev3-0.JPG",
-        "textHTML": "<br><br><br><p> Estimado Usted: </p> <br><p> Esto es sólo para Usted. </p>",
-        "footer": "Y también para los culeables del futuro que sepan apretar el culo adecuado."
+        "textHTML": "<br><br><br><p> Esta misión sólo tendrá éxito si Nautilus no sabe... </p> <br><p> Querrán destruir a Godzilla cuando todo lo que deben hacer es revivirlo.</p>",
+        "footer": "Y necesitaremos refuerzos, recursos, mucha astucia... Y cosas. Y culos."
       },
       {
         "title": "Mensaje en una botella",
         "imageURL": "images/rev3-1.JPG",
-        "textHTML": "<p>Godzilla quiere volver a nacer pero todos quieren destruírlo</p>",
+        "textHTML": "<p>Godzilla quiere volver a nacer pero todos quieren destruírlo. Espere instrucciones y prepare sus armas más poderosas.</p>",
         "footer": "Necesitamos un doble agente."
       },
       {
-        "title": "Quién podrá desambiguarnos?!",
+        "title": "Tenemos a Los Profesionales listos",
         "imageURL": "images/rev3-2.JPG",
-        "textHTML": "<p> La humanidad no sabe cómo usar a Megazord, deberemos confiar en los profesionales de siempre </p>",
-        "footer": "El equipo ya está listo, debemos actuar en silencio y con diligencia."
+        "textHTML": "<p> Megazord ha reunido al Dream Team del contracontraterrorismo. Este será un complejísimo juego de ajedrez humano.</p>",
+        "footer": "Debemos actuar en silencio y con diligencia."
       },
       {
         "title": "Nautilus es la banda de los capos blancos, sí.",
         "imageURL": "images/rev3-3.JPG",
-        "textHTML": "<p> Es sólo cuestión de conectar a la gente adecuada con los full-retards adecuados y cantarles una canción que los ilumine</p>",
+        "textHTML": "<p> Es sólo cuestión de conectar a la gente adecuada con los full-retards adecuados y cantarles una canción que los ilumine...</p>",
         "footer": "Me pregunto qué tiene Nautilus para contarme hoy..."
       }
     ]
@@ -157,23 +159,14 @@ var fullContent =
 
 
 function makeContent(){
-    if(alabasto<fullContent.length){
-        console.log(content);
-        content = fullContent[alabasto].content;
-        console.log(content);
-        console.log("Content is megazorded");
+    if (alabasto<fullContent.length){
+        if (romulo){
+            content = fullContent[alabasto].content;
+        } else {
+            content = fullContent[alabasto].countercontent;
+        }
     } 
-
 }
-
-
-// function culold() {
-//     console.log("VIVAN LOS CULOS number "+culol);
-//     document.getElementById('Image-culo').src=chapter.imageURL;
-//     document.getElementById('Text-culo').innerHTML=chapter.textHTML;
-//     document.getElementById('Footer-culo').innerHTML="<p> "+chapter.footer+"</p>";
-    
-// }
 
 function narrador(){
     if (culol>=content.length){
@@ -190,6 +183,7 @@ function narrador(){
 }
 
 function slartibartfasteala(){
+    console.log("slart in the house");
     switch (culol){
         case 1:
             document.getElementById("Title-culo").innerHTML="<h3><b>Bienvenidos a la sala de Slartibartfast</b></h3>";
@@ -200,23 +194,42 @@ function slartibartfasteala(){
             document.getElementById('Footer-culo').innerHTML="<p> Tarda en cargar y es pequeño, como su ego.</p>";
             break;
         case 2:
-            //más cosas;
+            skyboxOnDemand("images/slart0-0.JPG");
+            document.getElementById('Text-culo').innerHTML="<p>Al saber crear planetas, Slartibartfast también puede condicionar la evolución de criaturas monstruosas</p>";
+            document.getElementById('Footer-culo').innerHTML="<p> Tardan en evolucionar y son medio deformes, como el ego de su creador.</p>";
+            break;
+        case 3:
+            skyboxOnDemand("images/slart0-1.JPG");
+            document.getElementById('Text-culo').innerHTML="<p>Como todo nerd, Slartibartfast adora la fantasía y las batallas épicas.</p>";
+            document.getElementById('Footer-culo').innerHTML="<p> Los monstruos pelean por razones épicas y poco razonables, como su creador.</p>";
+            break;
+        case 4:
+            skyboxOnDemand("images/slart0-2.JPG");
+            document.getElementById('Text-culo').innerHTML="<p>Él sabe los secretos de la alquimia, necesarios para crear y destruir a Godzilla...</p>";
+            document.getElementById('Footer-culo').innerHTML="<p> Es cuestión de pedírselo con las palabras adecuadas.</p>";
             break;
         default:
             document.getElementById('container-culo').removeChild(child);
             document.getElementById('Image-culo').style.display='';
             culol=0;
             alabasto++;
-            narrador();
+            culo();
     }
 }
 
 function dameAudio(id){
-    document.getElementById('Audio-culo-'+id).style.visibility='visible';
-    culol=0;
-    alabasto++;
-    narrador();
-    console.log("HELL YES! AUDIO WORKS!");
+    switch (id){
+        case 1:
+            var audio = 'Audio-culo-'+String(id)
+            document.getElementById(audio).style.visibility='visible';            
+            culol=0;
+            alabasto++;
+            narrador();
+            break;
+        default:
+            narrador();
+    }
+    
 }
 
 function culo() {
@@ -229,10 +242,15 @@ function culo() {
             narrador();
             break;
         case 1:
+            romulo = confirm("Querés que Godzilla viva?");
             dameAudio(alabasto);
             break;
         case 4:
             slartibartfasteala();
+            break;
+        case 5:
+            //batmaneala();
+            dameAudio(alabasto);
             break;
         default:
             narrador();
