@@ -234,7 +234,7 @@ function dameAudio(id){
 
 function batmaneala(){
     console.log("batman in montevideo");
-    document.getElementById("Text-culo").style.display='hidden';
+    document.getElementById("Text-culo").style.display='none';
     document.getElementById("chat-culo").style.display=''; 
     // document.getElementById("chat-culo").style="width: 220px;height: 487px;"           
     culol=0;
