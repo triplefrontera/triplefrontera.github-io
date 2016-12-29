@@ -233,7 +233,7 @@ function dameAudio(id){
 }
 
 function batmaneala(){
-
+    console.log("batman in montevideo");
     document.getElementById("chat-culo").style.visibility='visible';            
     culol=0;
     alabasto++;
