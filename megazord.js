@@ -104,7 +104,7 @@ var fullContent =
       {
         "title": "Los reptiles son un riesgo para la Galaxia!",
         "imageURL": "images/rev2-0.JPG",
-        "textHTML": "<p>Los reptiles están amotinándose por la muerte de su líder rebelde. A estas alturas, ni siquiera La Reina los puede mantener a raya.</p> <br> <p> Las defensas ya no dan abasto, es un momento de medidas desesperadas </p>",
+        "textHTML": "<p>Los reptiles están amotinándose por la muerte de su líder rebelde. A estas alturas, ni siquiera La Reina los puede mantener a raya.</p> <br> <p> Las defensas ya no dan abasto, es un momento de medidas desesperadas.</p>",
         "footer": "Se viene jodido, se viene!"
       },
       {
@@ -232,6 +232,16 @@ function dameAudio(id){
     
 }
 
+function batmaneala(){
+
+    document.getElementById("chat-culo").style.visibility='visible';            
+    culol=0;
+    alabasto++;
+    narrador();
+    
+    
+}
+
 function culo() {
 
     console.log("VIVAN LOS CULOS number "+culol);
@@ -246,12 +256,15 @@ function culo() {
             dameAudio(alabasto);
             break;
         case 4:
-            slartibartfasteala();
+            batmaneala();
             break;
         case 5:
-            //batmaneala();
-            dameAudio(alabasto);
+            slartibartfasteala();
             break;
+        //case 6:
+            //batmaneala();
+            //dameAudio(alabasto);
+            //break;
         default:
             narrador();
     }
