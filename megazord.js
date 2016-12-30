@@ -239,8 +239,12 @@ function dameAudio(id){
 
 function batmaneala(){
 
+    console.log("and the batman donde está?");
     
     switch(culol){
+      case 0: 
+        console.log("Does this happen?");
+        break;
       case 1:
         console.log("batman in montevideo for the reunion of the mates");
         document.getElementById("Text-culo").style.display='none';
@@ -253,6 +257,7 @@ function batmaneala(){
         culol=0;
         alabasto++;
         narrador();
+        break;
       default:
         narrador();
     }
