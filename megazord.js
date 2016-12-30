@@ -249,7 +249,7 @@ function batmaneala(){
         console.log("batman in montevideo for the reunion of the mates");
         document.getElementById("Text-culo").style.display='none';
         document.getElementById("chat-culo").style.display=''; 
-        culol++;
+        culol=2;
         break;
       case 2:
         document.getElementById("Text-culo").style.display='';
