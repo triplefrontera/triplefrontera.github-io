@@ -208,6 +208,11 @@ function slartibartfasteala(){
             document.getElementById('Text-culo').innerHTML="<p>Él sabe los secretos de la alquimia, necesarios para crear y destruir a Godzilla...</p>";
             document.getElementById('Footer-culo').innerHTML="<p> Es cuestión de pedírselo con las palabras adecuadas.</p>";
             break;
+        case 5:
+            skyboxOnDemand("images/slart0-2.JPG");
+            document.getElementById('Title-culo').innerHTML="<p>Él sabe los secretos de la alquimia, necesarios para crear y destruir a Godzilla...</p>";
+            document.getElementById('chat-footer-culo').style.display='';
+            break;
         default:
             document.getElementById('container-culo').removeChild(child);
             document.getElementById('Image-culo').style.display='';
@@ -233,6 +238,7 @@ function dameAudio(id){
 }
 
 function batmaneala(){
+
     
     switch(culol){
       case 0:
@@ -251,6 +257,7 @@ function batmaneala(){
         narrador();
     }
     
+
 }
 
 function culo() {
