@@ -247,11 +247,13 @@ function batmaneala(){
         break;
       case 1:
         console.log("batman in montevideo for the reunion of the mates");
+        culol=2;
         document.getElementById("Text-culo").style.display='none';
         document.getElementById("chat-culo").style.display=''; 
-        culol=2;
+        
         break;
       case 2:
+        console.log("cuándo pasa esto?")
         document.getElementById("Text-culo").style.display='';
         document.getElementById("chat-culo").style.display='none'; 
         culol=0;
