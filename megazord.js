@@ -239,7 +239,7 @@ function dameAudio(id){
 
 function batmaneala(){
 
-    console.log("and the batman donde está?");
+    console.log("and the batman donde está? donde está?");
     
     switch(culol){
       case 0: 
