@@ -233,14 +233,23 @@ function dameAudio(id){
 }
 
 function batmaneala(){
-    console.log("batman in montevideo");
-    document.getElementById("Text-culo").style.display='none';
-    document.getElementById("chat-culo").style.display=''; 
-    // document.getElementById("chat-culo").style="width: 220px;height: 487px;"           
-    culol=0;
-    alabasto++;
-    narrador();
     
+    switch(culol){
+      case 0:
+        console.log("batman in montevideo for the reunion of the mates");
+        document.getElementById("Text-culo").style.display='none';
+        document.getElementById("chat-culo").style.display=''; 
+        culol++;
+        break;
+      case 1:
+        document.getElementById("Text-culo").style.display='';
+        document.getElementById("chat-culo").style.display='none'; 
+        culol=0;
+        alabasto++;
+        narrador();
+      default:
+        narrador();
+    }
     
 }
 
