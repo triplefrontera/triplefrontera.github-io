@@ -208,6 +208,11 @@ function slartibartfasteala(){
             document.getElementById('Text-culo').innerHTML="<p>Él sabe los secretos de la alquimia, necesarios para crear y destruir a Godzilla...</p>";
             document.getElementById('Footer-culo').innerHTML="<p> Es cuestión de pedírselo con las palabras adecuadas.</p>";
             break;
+        case 5:
+            skyboxOnDemand("images/slart0-2.JPG");
+            document.getElementById('Title-culo').innerHTML="<p>Él sabe los secretos de la alquimia, necesarios para crear y destruir a Godzilla...</p>";
+            document.getElementById('chat-footer-culo').style.display='';
+            break;
         default:
             document.getElementById('container-culo').removeChild(child);
             document.getElementById('Image-culo').style.display='';
@@ -233,15 +238,24 @@ function dameAudio(id){
 }
 
 function batmaneala(){
-    console.log("batman in montevideo");
-    document.getElementById("Text-culo").style.display='none';
-    document.getElementById("chat-culo").style.display=''; 
-    // document.getElementById("chat-culo").style="width: 220px;height: 487px;"           
-    culol=0;
-    alabasto++;
-    narrador();
-    
-    
+    switch (culol){
+        case 0:
+            console.log("batman in montevideo");
+            document.getElementById("Text-culo").style.display='none';
+            document.getElementById("chat-culo").style.display=''; 
+            // document.getElementById("chat-culo").style="width: 220px;height: 487px;"           
+            culol++;
+            break;
+        case 1:
+            culol = 0;
+
+            document.getElementById("Text-culo").style.display='';
+            document.getElementById("chat-culo").style.display='none';
+
+            alabasto++;
+            break;
+        default:
+            narrador();    
 }
 
 function culo() {
