@@ -260,6 +260,14 @@ function batmaneala(){
         alabasto++;
         narrador();
         break;
+      case 3:
+        console.log("cuándo pasa esto?")
+        document.getElementById("Text-culo").style.display='';
+        document.getElementById("chat-culo").style.display='none'; 
+        culol=0;
+        alabasto++;
+        narrador();
+        break;
       default:
         narrador();
     }
