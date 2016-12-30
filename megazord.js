@@ -241,13 +241,13 @@ function batmaneala(){
 
     
     switch(culol){
-      case 0:
+      case 1:
         console.log("batman in montevideo for the reunion of the mates");
         document.getElementById("Text-culo").style.display='none';
         document.getElementById("chat-culo").style.display=''; 
         culol++;
         break;
-      case 1:
+      case 2:
         document.getElementById("Text-culo").style.display='';
         document.getElementById("chat-culo").style.display='none'; 
         culol=0;
