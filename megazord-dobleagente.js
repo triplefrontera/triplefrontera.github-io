@@ -300,7 +300,7 @@ function culo() {
             narrador();
             break;
         case 1:
-            //romulo = confirm("Querés que Godzilla viva?");
+            romulo = confirm("Querés que Godzilla viva?");
             dameAudio(alabasto);
             break;
         // case 3:
