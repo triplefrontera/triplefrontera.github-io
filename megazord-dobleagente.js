@@ -49,23 +49,29 @@ var fullContent =
       {
         "title": "Celebración Periódica de lo Observable",
         "imageURL": "images/rev1-0.JPG",
-        "textHTML": "<p> El tiempo no se define ni por los astros ni por el sueño. <br> El observador hace lo suyo y la rueda gira sobre algún dueño. <br> <br> No es la realidad de nada pero está en todas las verdades. <br><br>  Ésta oscilación trigonométrica me agota, pero me condena. <br> Sé que al final de la curva se esconde lo inefable.<br><br><br>Cuando el futuro lejano se vuelve pesadilla de ciencia ficción <br> me detengo a recordar que todavía somos falaces. <br> Nada es tan diabólico, nada es tan crudo <br> como lo que sueño en mis cálculos ignorantes. <br><br> Al final, el error nos salva de la destrucción absoluta <br>la pesadilla de lo que termina sólo es una persecuta.<br></p>",
+        "textHTML": "<p> El tiempo no se define ni por los astros ni por el sueño. <br> El observador hace lo suyo y la rueda gira sobre algún dueño. <br> <br> No es la realidad de nada pero está en todas las verdades. <br><br>  Ésta oscilación trigonométrica me agota, pero me condena. <br> Sé que al final de la curva se esconde lo inefable.<br><br><br>Cuando el futuro lejano se vuelve pesadilla de ciencia ficción <br> me detengo a recordar que todavía somos falaces. <br> Nada es tan diabólico, nada es tan crudo <br> como lo que sueño en mis cálculos ignorantes. <br><br> Al final, el error nos salva de la destrucción absoluta <br>la pesadilla de lo que termina siendo, sólo es una persecuta.<br></p>",
         "footer": ""
       },
-      //vista de wikipedia
-      // {
-      //   "title": "Entry de Wikipedia",
-      //   "imageURL": "images/rev1-1.JPG",
-      //   "textHTML": "<p> Incluso las máquinas más perfectas creadas por la humanidad (como por ejemplo, las toallas y los tostadores) tienen, por definición, errores de fabricación e interfaces que generan dudas para los humanos inadvertidos. La gran innovación en la técnica perfeccionista de los humanos manufacturadores fue, por supuesto, resuelto a nivel legal: se llama Reductio ad Terminums et Condicionems, y sigue los principios de “Como proveedor de un servicio que no está claramente definido, sus datos son míos, y yo a cambio doy garantía de absolutamente nada”.</p><p>Como consecuencia de este fenómeno histórico y poco rastreable, la recolección de evidencias siempre fue el trabajo más difícil para un cerebro superdesarrollado como el positrónico y multidimensional cerebrín de El Recordador Multimático. Verá, estimado e ignorante lector, todo se debe a que las cosas pasan y seguirán pasando por todas las eternidades siempre dependiendo de las oscilaciones sociopolíticas pretéritas de los atardeceres analíticos del tiempoespacio. En más simples palabras, El Recordador Multimático sabe muy bien que los registros son siempre ficcionales y bipartidistas, por tanto tiene un nivel de desconfianza insalvable para todo lo sucedido en las épocas pre-Recordadas.</p>",
-      //   "footer": "Ya todos sabemos quién es y qué hace un Recordador."
-      // },
       //vista de diario cartográfico
+       {
+        "title": "Desambiguando la historieta histórica",
+        "imageURL": "images/rev01-1.JPG",
+        "textHTML": "<p>  El Gran Recordador es sólo un payaso<br>en el circo de patéticos,<br>no hay nada malo en ello.<br><br>Hemos trabajado con demasiados Recordadores, <br>hemos grabado todo con cada aparato que conocemos. <br><br>La esencia de lo que nos hace ser <br>y nos hace volver a ser siempre,<br> frecuentes e insistentes,<br> en el espacio y en el momento. <br><br>No importa cuántos compases,<br>no importa cuántos péndulos<br> jamás logramos entender el Tiempo, ni controlarlo, ni conocerlo.  <br>",
+        "footer": ""
+      },
       {
         "title": "Desambiguando la historieta histórica",
         "imageURL": "images/rev01-2.JPG",
-        "textHTML": "<p>  El Gran Recordador del futuro es sólo un payaso más en el circo de patéticos, y no hay nada malo en ello.<br>Hemos trabajado con demasiados Recordadores, hemos grabado todo lo fotografiable por cada tecnología que conocemos. <br>Aún así, no logramos encontrar la esencia de lo que nos hace ser ni de lo que nos hace volver a ser, siempre frecuentes, en el tiempo-espacio. No importa cuántas veces adaptemos nuestros compases, jamás logramos entender el Tiempo, ni controlarlo, ni conocerlo. <br><br> Los monstruos, sin embargo, saben evolucionar y destruir, reciclar y reordenar, siempre con mejor saña y más estilo, que nuestros más denodados intentos por volver a ser Uno con La Tierra. Ésta es la historia de quien, a fuerza de recursos infinitos, busca lo que ningún Recordador puede encontrar: La Sabiduría Ancestral. <br><br> Tan vieja como nuestra existencia, <br>dejada de lado por nuestra complacencia, <br>enterrada bajo guerras y restaurada por la inocencia.<br><br> Jamás la encontraremos, pero en el durante,<br> grandes monstruos crecerán en todas partes,<br> y tal vez ellos logren <br>lo que nosotros nunca sabremos lograr: <br><br>una renovación hacia un balance más mortal.</p>",
+        "textHTML": "<p> Los monstruos, sin embargo, <br>saben crecer y matar,<br> reciclar y reordenar,<br> siempre con mejor saña y más estilo.<br><br>Nuestros más denodados intentos <br>por volver hacia el balance<br>son ridiculizados por la simpleza<br>del Gran Animal dominante.<br><br> Ésta es la historia entonces,<br> por más que me pese admitir <br>que a pesar de recursos infinitos,<br> el hombre no sabe impartir.<br><br> El requisito está dicho, <br> deberé siempre buscar<br>lo que nunca será escrito:<br> La Sabiduría Ancestral. <br>",
         "footer": ""
       },
+      {
+        "title": "",
+        "imageURL": "images/rev01-3.JPG",
+        "textHTML": "<br> Tan vieja como nuestra existencia, <br>dejada de lado por nuestra complacencia, <br>enterrada bajo guerras y restaurada por la inocencia.<br><br> Jamás la encontraremos, pero en el durante,<br> grandes monstruos crecerán en todas partes,<br> y tal vez ellos logren <br>lo que nosotros nunca sabremos lograr: <br><br>una renovación hacia un balance más mortal.</p>",
+        "footer": ""
+      },
+      
       //vista de diario cartográfico
       {
         "title": "",
@@ -82,7 +88,7 @@ var fullContent =
         "title": "",
         "imageURL": "images/rev1-2.JPG",
         "textHTML": "<p>La creatividad queda corta cuando algo terrible debe suceder.<br> Es por eso que lo cuántico no se puede resolver.<br><br>Con la ayuda de lo etéreo podemos retratar<br>Lo que el cerebro humano no se atreve a divisar<br><br>Es por eso que el ignorante <br> es el sabio por comprensión <br><br> Y el sabiundo queda grande para toda la ocasión.</p>",
-        "footer": "Y también para todos los culeables del futuro que sepan apretar el culo adecuado: ¡Los saludo!"
+        "footer": ""
       },
       {
         "title": "Unused",
@@ -109,31 +115,31 @@ var fullContent =
       {
         "title": "",
         "imageURL": "images/rev02-0.JPG",
-        "textHTML": "<p>El lugar no importa para esta historia,<br>tampoco existe el lugar.<br><br><br><br>El que se quiera sentir parte de la causa<br>puede luchar.<br><br>Si lucha, será parte, <br>Si no lucha la parte está igual<br>el determinante determinado<br>será Oscuridad.</p>",
+        "textHTML": "<p>El lugar no importa para esta historia,<br>tampoco existe el lugar.<br><br><br><br>El que se quiera sentir parte de la causa<br>puede luchar.<br><br><br><br>Si lucha, será parte, <br>Si no lucha la parte está igual<br>el determinante determinado<br>será Oscuridad.</p>",
         "footer": ""
       },
       {
         "title": "",
         "imageURL": "images/rev02-1.JPG",
-        "textHTML": "<p>La Reina llama a la guerra<br>en su traje habitual.<br><br>Los obedientes obedecen,<br><br>un monstruo he de crear.</p>",
+        "textHTML": "<p>El Ejército busca con sed su venganza<br>la humanidad, en cambio, clama calma<br>Hemos olvidado el golpe del tambor<br>El latir de la maquinaria enmudece el temblor.<br>Hemos olvidado la lucha de lo ardiente,<br>La Tierra pide, la Tierra enciende.<br><br>Sin ser full-vegan, debemos insistir<br>lo nuestro nos reclama<br>es hora de dividir.<br>La Lealtad llama a la guerra<br>vestida en su traje habitual.<br><br>Los obedientes obedecen,<br>la batalla tendrá lugar.<br><br>El enemigo se desvanece<br>ya no hay contra quién pelear<br> El pueblo lo merece:<br>un nuevo monstruo he de crear.</p>",
         "footer": ""
       },
       {
-        "title": "Mensaje en una botella",
+        "title": "",
         "imageURL": "images/rev2-1.JPG",
-        "textHTML": "<p>Sin héroe, el Monstruo es Destrucción.<br>Sin lucha no hay oposición.<br><br>Al crear una bestia mortal, <br>hemos también de desambiguar.<br><br>El Sheriff de turno entrenará<br> Y algún día logrará<br>desatar la sangrienta lucha<br>por la Piedad.</p>",
+        "textHTML": "<p>Sin héroe, el Monstruo es Destrucción.<br>Sin lucha no hay oposición.<br><br>Al crear una bestia mortal, <br>hemos también de desambiguar.<br><br><br>El Sheriff De Turno nace<br>de la pluma y la imaginación;<br>en realidad nadie satisface<br> el hambre del Gran Matón.<br><br>Con esperanza el caballero entrena<br>en busca del momento mortal <br>y algún día en alguna historia<br>vencerá con La Piedad.</p>",
         "footer": ""
       },
       {
-        "title": "Quién podrá desambiguarnos?!",
+        "title": "",
         "imageURL": "images/rev2-2.JPG",
-        "textHTML": "<p> El Ejército busca con sed su venganza<br><br>la humanidad, en cambio, clama calma<br><br> Hemos olvidado la guerra, <br> hemos olvidado la Tierra.<br><br>Sin ser full-vegan, debemos insistir por guerra.</p>",
-        "footer": "El fin está cerca pero tenemos un as bajo la manga."
+        "textHTML": "<p>A través de las distancias <br> en el momento menos crucial<br>la historia del triunfante<br>se logra redactar.<br><br>Tiempos de miseria se diluyen<br> esperanza sabe matar<br>el pueblo que tembloroso huye <br> pero está listo para luchar <br><br>La misión es exitosa <br>si los ignorantes ignoran<br>La guerra por guerra lo implora:<br>Es clave para encontrar<br>la evolución hacia lo natural.</p>",
+        "footer": ""
       },
       {
         "title": "Nautilus: Blancos pero vivos",
         "imageURL": "images/rev2-3.JPG",
-        "textHTML": "<p> Quienes han visto cosas saben decir<br>Lo dicho está por venir. <br><br> Quien resiste sabe también<br>que las cosas pasan y no hay por qué</p>",
+        "textHTML": "<p> Quienes han visto cosas saben decir<br>que lo dicho está por venir. <br> Quien resiste sabe también<br>que las cosas pasan y no hay por qué<br> <br> Los artistas que detonan <br> la preciada maravilla <br><br> en su historia no perdonan<br>en su canto no avivan<br>en su cuadro no esquivan<br>en su mente no olvidan.</p>",
         "footer": "Me pregunto qué tiene Nautilus para cantarme hoy..."
       }
     ]
@@ -143,26 +149,26 @@ var fullContent =
       {
         "title": "",
         "imageURL": "images/rev3-0.JPG",
-        "textHTML": "<br><br><br><p> Esta misión sólo tendrá éxito si los ignorantes ignoran<br>La guerra por guerra lo implora.<br><br>Es la clave para encontrar<br>la evolución hacia lo natural.</p>",
-        "footer": "Y necesitaremos refuerzos, recursos, mucha astucia... Y cosas. Y culos."
+        "textHTML": "<p>Tal vez un cuento suena a hechizo<br>tal vez los nombres son delirios<br>tal vez las voces son caminos<br>tal vez el símbolo es esquivo.<br><br>Pero quien sepa inspirar<br>con las bestias podrá hablar<br>con la música animarlos<br>a continuar el mamífero ritual. </p>",
+        "footer": ""
       },
       {
-        "title": "Mensaje en una botella",
+        "title": "Unused",
         "imageURL": "images/rev3-1.JPG",
-        "textHTML": "<p>Godzilla debe volver a nacer pero todos quieren destruírlo. Espere instrucciones y prepare sus armas más poderosas.</p>",
+        "textHTML": "<p></p>",
         "footer": "Necesitamos un doble agente."
       },
       {
-        "title": "Tenemos a Los Profesionales listos",
+        "title": "Unused",
         "imageURL": "images/rev3-2.JPG",
-        "textHTML": "<p> En el juego del contracontraterrorismo, todos listos.</p>",
-        "footer": "Debemos actuar en silencio y con diligencia."
+        "textHTML": "<p> </p>",
+        "footer": ""
       },
       {
-        "title": "Nautilus es la banda de los capos blancos, sí.",
+        "title": "Unused",
         "imageURL": "images/rev3-3.JPG",
-        "textHTML": "<p> Es sólo cuestión de conectar a la gente adecuada con los full-retards adecuados y cantarles una canción que los ilumine...</p>",
-        "footer": "Me pregunto qué tiene Nautilus para contarme hoy..."
+        "textHTML": "<p> </p>",
+        "footer": ""
       }
     ]
   }
@@ -201,29 +207,30 @@ function slartibartfasteala(){
             document.getElementById('Image-culo').style.display='none';
             init();
             animate();
-            document.getElementById('Text-culo').innerHTML="<p>A Slartibartfast se le da por crear planetas, y éste es su taller.</p>";
-            document.getElementById('Footer-culo').innerHTML="<p> Tarda en cargar y es pequeño, como su ego.</p>";
+            document.getElementById('Text-culo').innerHTML="<p>Mi taller se ve vistoso, como todo lo metal<br>la magia es pasos de baile tras un vidrio anormal.<br><br>El trazado matricial de lo armado<br>no habla de lo profundo y enjaulado<br><br>Quien quiera saber de mitos puede hacerlo aquí<br>el mito no es lo cierto, es un retrato en si.<br><br>Mi herramienta es mi lápiz<br>mi pincel y mi barniz;<br> con unos pases de magia y puntos<br> un planeta he de construir.</p>";
+            document.getElementById('Footer-culo').innerHTML="<p> </p>";
             break;
         case 2:
             skyboxOnDemand("images/slart0-0.JPG");
-            document.getElementById('Text-culo').innerHTML="<p>Al saber crear planetas, Slartibartfast también puede condicionar la evolución de criaturas monstruosas</p>";
-            document.getElementById('Footer-culo').innerHTML="<p> Tardan en evolucionar y son medio deformes, como el ego de su creador.</p>";
+            document.getElementById('Text-culo').innerHTML="<p>Cosas salen bien y cosas salen mal.<br>El Monstruo debemos acomodar.<br>Mis bits son infinitos, mi paciencia también.<br>Como un escarabajo en una historia, también puedo desaparecer.<br></p>";
+            document.getElementById('Footer-culo').innerHTML="<p> </p>";
             break;
-        case 3:
-            skyboxOnDemand("images/slart0-1.JPG");
-            document.getElementById('Text-culo').innerHTML="<p>Como todo nerd, Slartibartfast adora la fantasía y las batallas épicas.</p>";
-            document.getElementById('Footer-culo').innerHTML="<p> Los monstruos pelean por razones épicas y poco razonables, como su creador.</p>";
-            break;
-        case 4:
-            skyboxOnDemand("images/slart0-2.JPG");
-            document.getElementById('Text-culo').innerHTML="<p>Él sabe los secretos de la alquimia, necesarios para crear y destruir a Godzilla...</p>";
-            document.getElementById('Footer-culo').innerHTML="<p> Es cuestión de pedírselo con las palabras adecuadas.</p>";
-            break;
-        case 5:
-            skyboxOnDemand("images/slart0-2.JPG");
-            document.getElementById('Title-culo').innerHTML="<p>Él sabe los secretos de la alquimia, necesarios para crear y destruir a Godzilla...</p>";
-            document.getElementById('chat-footer-culo').style.display='';
-            break;
+        // case 3:
+        // //hasta acá
+        //     skyboxOnDemand("images/slart0-1.JPG");
+        //     document.getElementById('Text-culo').innerHTML="<p>Como todo nerd, Slartibartfast adora la fantasía y las batallas épicas.</p>";
+        //     document.getElementById('Footer-culo').innerHTML="<p> Los monstruos pelean por razones épicas y poco razonables, como su creador.</p>";
+        //     break;
+        // case 4:
+        //     skyboxOnDemand("images/slart0-2.JPG");
+        //     document.getElementById('Text-culo').innerHTML="<p>Él sabe los secretos de la alquimia, necesarios para crear y destruir a Godzilla...</p>";
+        //     document.getElementById('Footer-culo').innerHTML="<p> Es cuestión de pedírselo con las palabras adecuadas.</p>";
+        //     break;
+        // case 5:
+        //     skyboxOnDemand("images/slart0-2.JPG");
+        //     document.getElementById('Title-culo').innerHTML="<p>Él sabe los secretos de la alquimia, necesarios para crear y destruir a Godzilla...</p>";
+        //     document.getElementById('chat-footer-culo').style.display='';
+        //     break;
         default:
             document.getElementById('container-culo').removeChild(child);
             document.getElementById('Image-culo').style.display='';
@@ -253,17 +260,17 @@ function batmaneala(){
     console.log("and the batman donde está? donde está?");
     
     switch(culol){
-      case 0: 
-        console.log("Does this happen?");
-        break;
-      case 1:
+      // case 0: 
+      //   console.log("Does this happen?");
+      //   break;
+      case 0:
         console.log("batman in montevideo for the reunion of the mates");
         culol=2;
         document.getElementById("Text-culo").style.display='none';
         document.getElementById("chat-culo").style.display=''; 
         
         break;
-      case 2:
+      case 1:
         console.log("cuándo pasa esto?")
         document.getElementById("Text-culo").style.display='';
         document.getElementById("chat-culo").style.display='none'; 
@@ -271,7 +278,7 @@ function batmaneala(){
         alabasto++;
         narrador();
         break;
-      case 3:
+      case 2:
         console.log("cuándo pasa esto?")
         document.getElementById("Text-culo").style.display='';
         document.getElementById("chat-culo").style.display='none'; 
@@ -296,7 +303,7 @@ function culo() {
             narrador();
             break;
         case 1:
-            romulo = confirm("Querés que Godzilla viva?");
+            //romulo = confirm("Querés que Godzilla viva?");
             dameAudio(alabasto);
             break;
         // case 3:
@@ -305,10 +312,10 @@ function culo() {
         case 3:
             slartibartfasteala();
             break;
-        //case 6:
-            //batmaneala();
+        case 4:
+            batmaneala(1);
             //dameAudio(alabasto);
-            //break;
+            break;
         default:
             narrador();
     }
