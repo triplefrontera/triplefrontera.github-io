@@ -255,23 +255,20 @@ function dameAudio(id){
     
 }
 
-function batmaneala(){
-
-    console.log("and the batman donde está? donde está?");
-    
+function batmaneala(){    
     switch(culol){
       // case 0: 
       //   console.log("Does this happen?");
       //   break;
       case 0:
         console.log("batman in montevideo for the reunion of the mates");
-        culol=2;
+        culol=1;
         document.getElementById("Text-culo").style.display='none';
         document.getElementById("chat-culo").style.display=''; 
         
         break;
       case 1:
-        console.log("cuándo pasa esto?")
+        console.log("cuándo pasa esto?1")
         document.getElementById("Text-culo").style.display='';
         document.getElementById("chat-culo").style.display='none'; 
         culol=0;
@@ -279,7 +276,7 @@ function batmaneala(){
         narrador();
         break;
       case 2:
-        console.log("cuándo pasa esto?")
+        console.log("cuándo pasa esto?2")
         document.getElementById("Text-culo").style.display='';
         document.getElementById("chat-culo").style.display='none'; 
         culol=0;
@@ -313,7 +310,7 @@ function culo() {
             slartibartfasteala();
             break;
         case 4:
-            batmaneala(1);
+            batmaneala();
             //dameAudio(alabasto);
             break;
         default:
