@@ -194,13 +194,13 @@ function slartibartfasteala(){
             document.getElementById('Image-culo').style.display='none';
             init();
             animate();
-            document.getElementById('Text-culo').innerHTML="<p>A Slartibartfast se le da por crear planetas, y éste es su taller.</p>";
-            document.getElementById('Footer-culo').innerHTML="<p> Tarda en cargar y es pequeño, como su ego.</p>";
+            document.getElementById('Text-culo').innerHTML='<img src="images/slartmatematica1.JPG" alt="Smiley face" height="42" width="42">';
+            document.getElementById('Footer-culo').innerHTML="<p>A Slartibartfast se le da por crear planetas, y éste es su taller.</p><p> Tarda en cargar y es pequeño, como su ego.</p>";
             break;
         case 3:
             skyboxOnDemand("images/slart0-0.JPG");
-            document.getElementById('Text-culo').innerHTML="<p>Al saber crear planetas, Slartibartfast también puede condicionar la evolución de criaturas monstruosas</p>";
-            document.getElementById('Footer-culo').innerHTML="<p> Tardan en evolucionar y son medio deformes, como el ego de su creador.</p>";
+            document.getElementById('Text-culo').innerHTML='<img src="images/slartmatematica2.JPG" alt="Smiley face" height="42" width="42">';
+            document.getElementById('Footer-culo').innerHTML="<p>Al saber crear planetas, Slartibartfast también puede condicionar la evolución de criaturas monstruosas</p><p> Tardan en evolucionar y son medio deformes, como el ego de su creador.</p>";
             break;
         case 4:
             skyboxOnDemand("images/slart0-1.JPG");
