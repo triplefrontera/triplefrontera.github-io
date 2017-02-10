@@ -17,7 +17,7 @@ var templateChapter = {
 //unused right now
 var content = [
   {
-    "title": "Feliz Celebración Anual de lo Anualizable",
+    "title": "Estimados acólitos de la matemática:",
     "imageURL": "images/rev0-0.JPG",
     "textHTML": "<br><br><br><p> Estimado Usted: </p> <br><p> Esto es sólo para Usted. </p>",
     "footer": "Y también para los culeables del futuro que sepan apretar el culo adecuado."
@@ -47,22 +47,22 @@ var fullContent =
   {
     "content": [
       {
-        "title": "Feliz Celebración Anual de lo Anualizable",
+        "title": "Estimados acólitos de la matemática:",
         "imageURL": "images/rev1-0.JPG",
-        "textHTML": "<br><br><br><p> Estimado Usted: </p> <br><p> Esto es sólo para Usted. </p>",
-        "footer": "Y también para los culeables del futuro que sepan apretar el culo adecuado."
+        "textHTML": "<br><br><br><p> El mundo está siendo amenazado otra vez</p> <br><p> </p>",
+        "footer": "."
       },
       {
-        "title": "Introducción a lo introduccionable",
+        "title": "",
         "imageURL": "images/rev1-1.JPG",
-        "textHTML": "<p> Incluso las máquinas más perfectas creadas por la humanidad (como por ejemplo, las toallas y los tostadores) tienen, por definición, errores de fabricación e interfaces que generan dudas para los humanos inadvertidos. La gran innovación en la técnica perfeccionista de los humanos manufacturadores fue, por supuesto, resuelto a nivel legal: se llama Reductio ad Terminums et Condicionems, y sigue los principios de “Como proveedor de un servicio que no está claramente definido, sus datos son míos, y yo a cambio doy garantía de absolutamente nada”.</p><p>Como consecuencia de este fenómeno histórico y poco rastreable, la recolección de evidencias siempre fue el trabajo más difícil para un cerebro superdesarrollado como el positrónico y multidimensional cerebrín de Megazord. Verá, estimado e ignorante lector, todo se debe a que las cosas pasan y seguirán pasando por todas las eternidades siempre dependiendo de las oscilaciones sociopolíticas pretéritas de los atardeceres analíticos del tiempoespacio. En más simples palabras, Megazord sabe muy bien que los registros son siempre ficcionales y bipartidistas, por tanto tiene un nivel de desconfianza insalvable para todo lo sucedido en las épocas pre-Megazordianas.</p>",
-        "footer": "Ya todos sabemos quién es y qué hace Megazord, che."
+        "textHTML": "<p>por un problema geométrico que nadie se había preguntado antes y ahora estamos en problemas.</p>",
+        "footer": ""
       },
       {
-        "title": "Desambiguando la historieta histórica",
+        "title": "",
         "imageURL": "images/rev1-2.JPG",
-        "textHTML": "<p> Algunas versiones de Megazord, diseñadas para la particular tarea de reconstrucción de realidades pretéritas confluenciadas, se basan en el arte como método irónico y trastornado de registro social y entusiasmagórico verbal y emocional. Salvando las distancias, los grandes sabiundos de lo supible coinciden que es mejor escuchar una historia contada por alguien que no la vivió, no la peleó, no la leyó, y está enojado con su padre porque no le deja ver la tele después de la hora de irse a la camucha.</p><p>Es así como Megazord le tira letras a Nautilus, el colectivo artístico futurista multirracial de los animales humanizados más blancos de la temporada astral. Podemos, junto con ellos, discernir grandes historias de heroísmo protagonizadas por nadie en particular, aplicables a cualquier fenómeno histórico de relevancia completamente inexistente. </p>",
-        "footer": "Cuénteme más sobre lo que hace Nautilus, señor narrador, me aburro leyendo tanto."
+        "textHTML": "<p> Resulta que los numeritos estaban haciendo lo que los numeritos hacen cuando un polígono regular apareció en el plano. </p>",
+        "footer": ""
       },
       {
         "title": "Nautilus es la banda de los capos blancos, sí.",
@@ -75,27 +75,27 @@ var fullContent =
   {
     "content": [
       {
-        "title": "Feliz Celebración Anual de lo Anualizable",
+        "title": "",
         "imageURL": "images/rev1-0.JPG",
-        "textHTML": "<br><br><br><p> Estimado Usted: </p> <br><p> Esto es sólo para Usted. </p><br><br><br><p> DELE PLAY DELE!</p>",
+        "textHTML": "<br><br><br><p> El otro día me crucé con un polígono, sabés?</p>",
         "footer": "Y también para los culeables del futuro que sepan apretar el culo adecuado."
       },
       {
         "title": "Unused",
         "imageURL": "images/rev1-1.JPG",
-        "textHTML": "<p>Godzilla quiere volver a nacer pero necesita ayuda de un Sheriff multiastral!</p>",
-        "footer": "Ya todos sabemos quién es y qué hace Megazord, che."
+        "textHTML": "<p>Se tienen cuatro vértices consecutivos de un polígono regular de 10 lados, A, B, C y D. Sea P el punto interior al polígono tal que el triángulo BPC es equilátero. Calcular la medida del ángulo BPD </p>",
+        "footer": ""
       },
       {
         "title": "Unused",
-        "imageURL": "images/rev1-2.JPG",
-        "textHTML": "<p> La humanidad no sabe cómo usar a Megazord, deberemos confiar en los profesionales de siempre </p>",
+        "imageURL": "images/slartmatematica1.JPG",
+        "textHTML": "<p>Al principio yo me lo imaginé así, pero valga recordar que el enunciado lo relata de una forma mucho más romántica:</p>",
         "footer": "Cuénteme más sobre lo que hace Nautilus, señor narrador, me aburro leyendo tanto."
       },
       {
         "title": "Unused",
-        "imageURL": "images/rev1-3.JPG",
-        "textHTML": "<p> Es sólo cuestión de conectar a la gente adecuada con los full-retards adecuados </p>",
+        "imageURL": "images/slartmatematica2.JPG",
+        "textHTML": "<p> </p>",
         "footer": "Me pregunto qué tiene Nautilus para contarme hoy..."
       }
     ]
