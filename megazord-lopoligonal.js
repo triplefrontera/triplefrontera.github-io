@@ -189,7 +189,7 @@ function slartibartfasteala(){
         case 1:
             document.getElementById('container-culo').removeChild(child);
             document.getElementById('Image-culo').innerHTML='<iframe src="https://triplefrontera.github.io/index-lopoligonal.html';
-        case 2:
+        case 0:
             
             document.getElementById("Title-culo").innerHTML="<h3><b>Bienvenidos a la sala de Slartibartfast</b></h3>";
             document.getElementById('Image-culo').style.display='none';
@@ -198,7 +198,7 @@ function slartibartfasteala(){
             document.getElementById('Text-culo').innerHTML='<img src="images/slartmatematica1.JPG" alt="Smiley face" height="42" width="42">';
             document.getElementById('Footer-culo').innerHTML="<p>A Slartibartfast se le da por crear planetas, y éste es su taller.</p><p> Tarda en cargar y es pequeño, como su ego.</p>";
             break;
-        case 3:
+        case 2:
             skyboxOnDemand("images/slart0-0.JPG");
             document.getElementById('Text-culo').innerHTML='<img src="images/slartmatematica2.JPG" alt="Smiley face" height="42" width="42">';
             document.getElementById('Footer-culo').innerHTML="<p>Al saber crear planetas, Slartibartfast también puede condicionar la evolución de criaturas monstruosas</p><p> Tardan en evolucionar y son medio deformes, como el ego de su creador.</p>";
