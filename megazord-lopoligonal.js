@@ -1,5 +1,6 @@
 // No scalability, just get the job done and create functions as needed
 
+//no sé qué hice
 
 console.log("VIVA PERON")
 var culol = 0;
@@ -187,7 +188,7 @@ function slartibartfasteala(){
     switch (culol){
         case 1:
             document.getElementById('container-culo').removeChild(child);
-            document.getElementById('Image-culo').innerHTML='<iframe src="https://www.wolframalpha.com/input/?i=syntax+of+life"></iframe>';
+            document.getElementById('Image-culo').innerHTML='<iframe src="https://triplefrontera.github.io/index-lopoligonal.html';
         case 2:
             
             document.getElementById("Title-culo").innerHTML="<h3><b>Bienvenidos a la sala de Slartibartfast</b></h3>";
