@@ -186,6 +186,10 @@ function slartibartfasteala(){
     console.log("slart in the house");
     switch (culol){
         case 1:
+            document.getElementById('container-culo').removeChild(child);
+            document.getElementById('Image-culo').innerHTML='<iframe src="https://www.wolframalpha.com/input/?i=syntax+of+life"></iframe>';
+        case 2:
+            
             document.getElementById("Title-culo").innerHTML="<h3><b>Bienvenidos a la sala de Slartibartfast</b></h3>";
             document.getElementById('Image-culo').style.display='none';
             init();
@@ -193,29 +197,27 @@ function slartibartfasteala(){
             document.getElementById('Text-culo').innerHTML="<p>A Slartibartfast se le da por crear planetas, y éste es su taller.</p>";
             document.getElementById('Footer-culo').innerHTML="<p> Tarda en cargar y es pequeño, como su ego.</p>";
             break;
-        case 2:
+        case 3:
             skyboxOnDemand("images/slart0-0.JPG");
             document.getElementById('Text-culo').innerHTML="<p>Al saber crear planetas, Slartibartfast también puede condicionar la evolución de criaturas monstruosas</p>";
             document.getElementById('Footer-culo').innerHTML="<p> Tardan en evolucionar y son medio deformes, como el ego de su creador.</p>";
             break;
-        case 3:
+        case 4:
             skyboxOnDemand("images/slart0-1.JPG");
             document.getElementById('Text-culo').innerHTML="<p>Como todo nerd, Slartibartfast adora la fantasía y las batallas épicas.</p>";
             document.getElementById('Footer-culo').innerHTML="<p> Los monstruos pelean por razones épicas y poco razonables, como su creador.</p>";
             break;
-        case 4:
+        case 5:
             skyboxOnDemand("images/slart0-2.JPG");
             document.getElementById('Text-culo').innerHTML="<p>Él sabe los secretos de la alquimia, necesarios para crear y destruir a Godzilla...</p>";
             document.getElementById('Footer-culo').innerHTML="<p> Es cuestión de pedírselo con las palabras adecuadas.</p>";
             break;
-        case 5:
+        case 6:
             skyboxOnDemand("images/slart0-2.JPG");
             document.getElementById('Title-culo').innerHTML="<p>Él sabe los secretos de la alquimia, necesarios para crear y destruir a Godzilla...</p>";
             document.getElementById('chat-footer-culo').style.display='';
             break;
         default:
-            document.getElementById('container-culo').removeChild(child);
-            document.getElementById('Image-culo').innerHTML='<iframe src="https://www.wolframalpha.com/input/?i=syntax+of+life"></iframe>';
             culol=0;
             alabasto++;
             culo();
