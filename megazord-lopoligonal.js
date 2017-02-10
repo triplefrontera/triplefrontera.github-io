@@ -1,5 +1,6 @@
 // No scalability, just get the job done and create functions as needed
 
+//no sé qué hice
 
 console.log("VIVA PERON")
 var culol = 0;
